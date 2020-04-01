@@ -1,3 +1,1 @@
-This is a sample program
-# hello-world
-just a repository
+print ("this is an example program" )
